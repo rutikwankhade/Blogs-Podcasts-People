@@ -1,4 +1,6 @@
 # Blogs
+
+I have been reading a lots of blogs. I learnt and understood a lot just by reading them and I feel like these should be read by everyone.  So everytime I come across something interesting and helpful, I am gonna add it here.
 ### Here is a list of blogs that I came across while learning. 
 
   * How to write great resume for software engineers 
