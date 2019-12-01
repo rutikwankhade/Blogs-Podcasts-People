@@ -42,6 +42,6 @@ I have been reading a lots of blogs. I learnt and understood a lot just by readi
   * A Simple Progressive Web App Tutorial
   https://link.medium.com/DQ1PWzAlX1
   
-  And many more coming soon. 
+  And many more. 
   
   
