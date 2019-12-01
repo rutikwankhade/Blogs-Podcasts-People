@@ -27,6 +27,21 @@ I have been reading a lots of blogs. I learnt and understood a lot just by readi
   * 30+ Best Youtube Channels to Code Like a Pro
   https://qubit-labs.com/best-youtube-channels-code-like-pro/
   
+  * A Git Workflow to Get You Started Pushing Code
+  https://www.freecodecamp.org/news/git-101-git-workflow-to-get-you-started-pushing-code/amp/#click=https://t.co/BXtAmsTQ7f
+  
+  * Free Tools for Tech Startup
+  https://link.medium.com/N57mVu4OM1
+  
+  * How to Learn React — A roadmap from beginner to advanced
+  https://link.medium.com/TSKBEFexv1
+  
+  * Making sense of Git and GitHub
+  https://betterstack.dev/blog/making-sense-of-git-and-github/
+  
+  * A Simple Progressive Web App Tutorial
+  https://link.medium.com/DQ1PWzAlX1
+  
   And many more coming soon. 
   
   
