@@ -42,6 +42,18 @@ I have been reading a lots of blogs. I learnt and understood a lot just by readi
   * A Simple Progressive Web App Tutorial
   https://link.medium.com/DQ1PWzAlX1
   
-  And many more. 
   
+  ## People whose blogs are very helpful while learning
+  
+  * Tania Rascia https://www.taniarascia.com/blog/
+  
+  * Siddharth Kshetrapal https://sid.st/blog/
+  
+  * Stefania Stevens https://stef.ninja/
+  
+  * Samantha Ming https://www.samanthaming.com/blog
+  
+  * Jessica chan https://coder-coder.com/blog/
+  
+  * FLORIN POP https://www.florin-pop.com/blog/
   
