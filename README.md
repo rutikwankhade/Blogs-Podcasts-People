@@ -42,6 +42,9 @@ I have been reading a lots of blogs. I learnt and understood a lot just by readi
   * A Simple Progressive Web App Tutorial
   https://link.medium.com/DQ1PWzAlX1
   
+  * What I want (and don’t want) to see on your software engineering resume
+  https://medium.com/p/cbc07913f7f6
+  
   
   ## People whose blogs are very helpful while learning
   
