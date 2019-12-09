@@ -54,9 +54,11 @@ I have been reading a lots of blogs. I learnt and understood a lot just by readi
   
   * Stefania Stevens https://stef.ninja/
   
-  * Samantha Ming https://www.samanthaming.com/blog
+  * Samantha Ming https://www.samanthaming.com/blog 
   
   * Jessica chan https://coder-coder.com/blog/
   
-  * FLORIN POP https://www.florin-pop.com/blog/
+  * FLORIN POP https://www.florin-pop.com/blog/ 
+  
+  * Scott Young https://www.scotthyoung.com/blog/ 
   
