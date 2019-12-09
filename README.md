@@ -45,6 +45,9 @@ I have been reading a lots of blogs. I learnt and understood a lot just by readi
   * What I want (and don’t want) to see on your software engineering resume
   https://medium.com/p/cbc07913f7f6
   
+  * Learning to Code is Easy: Here’s How to Teach Yourself
+  https://www.scotthyoung.com/blog/2019/07/08/learn-to-code/
+  
   
   ## People whose blogs are very helpful while learning
   
