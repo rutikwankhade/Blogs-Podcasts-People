@@ -48,6 +48,8 @@ I have been reading a lots of blogs. I learnt and understood a lot just by readi
   * Learning to Code is Easy: Here’s How to Teach Yourself
   https://www.scotthyoung.com/blog/2019/07/08/learn-to-code/
   
+  * Imposter Syndrome In Software Developers: Am I A Fake Developer?
+  https://www.geeksforgeeks.org/imposter-syndrome-in-software-developers-am-i-a-fake-developer/
   
   ## People whose blogs are very helpful while learning
   
