@@ -68,8 +68,10 @@ I have been reading a lots of blogs. I learnt and understood a lot just by readi
   * Scott Young https://www.scotthyoung.com/blog/ 
   
   ## Podcasts
+  Here are few podcasts that I loved listening to.
   * [TeaWithTanay](https://teawithtanay.com/) by Tanay Pratap
   * [Cero](https://www.youtube.com/watch?v=urhMZSeG33U&list=PLSAVyiM48sqsbznpqLl2l4xR0e7gWJ2T-) by Varun Mayya
   * [Syntax.fm](https://syntax.fm/) by Wes Bos and Scott Tolinski
   * [Ladybug](https://ladybug.dev/) by Kelly Vaughn, Ali Spittel & Emma Wedekind
+  * [Developer Tea](https://spec.fm/podcasts/developer-tea)
   
