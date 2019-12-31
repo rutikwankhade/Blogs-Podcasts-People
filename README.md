@@ -67,3 +67,9 @@ I have been reading a lots of blogs. I learnt and understood a lot just by readi
   
   * Scott Young https://www.scotthyoung.com/blog/ 
   
+  ## Podcasts
+  * [TeaWithTanay](https://teawithtanay.com/) by Tanay Pratap
+  * Cero by Varun Mayya
+  * Syntax.fm by Wes Bos and Scott Tolinski
+  * Ladybug
+  
