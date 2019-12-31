@@ -70,6 +70,6 @@ I have been reading a lots of blogs. I learnt and understood a lot just by readi
   ## Podcasts
   * [TeaWithTanay](https://teawithtanay.com/) by Tanay Pratap
   * Cero by Varun Mayya
-  * Syntax.fm by Wes Bos and Scott Tolinski
-  * Ladybug
+  * [Syntax.fm](https://syntax.fm/) by Wes Bos and Scott Tolinski
+  * [Ladybug](https://ladybug.dev/) by Kelly Vaughn, Ali Spittel & Emma Wedekind
   
