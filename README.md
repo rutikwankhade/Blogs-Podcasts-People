@@ -77,3 +77,4 @@ I have been reading a lots of blogs. I learnt and understood a lot just by readi
   * [Ladybug](https://ladybug.dev/) by Kelly Vaughn, Ali Spittel & Emma Wedekind
   * [Developer Tea](https://spec.fm/podcasts/developer-tea)
   
+Being a part of this developers community, I found there are lots of awesome people around. Their existance and contribution is a gift to this community. Here is a list of such awesome people you should follow.
