@@ -30,7 +30,18 @@ Hi! I have been reading a lots of blogs. I learnt and understood a lot just by r
   
   ## People whose blogs are very helpful while learning
   
-  * Tania Rascia https://www.taniarascia.com/blog/
+  
+| Check blogs from these people                       |
+| ------------- |:-------------:|
+| * [Tania Rascia](https://www.taniarascia.com/blog/)
+        | right-aligned |
+| col 2 is      | centered      | 
+| zebra stripes | are neat      | 
+  
+  
+  
+  
+  
   
   * Siddharth Kshetrapal https://sid.st/blog/
   
