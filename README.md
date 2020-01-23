@@ -30,28 +30,16 @@ Hi! I have been reading a lots of blogs. I learnt and understood a lot just by r
   
   ## People whose blogs are very helpful while learning
   
-   * [Tania Rascia](https://www.taniarascia.com/blog/)    * [Siddharth Kshetrapal](https://sid.st/blog/) 
-   * [Stefania Stevens](https://stef.ninja/)    * [Bolaji Ayodeji](https://bolajiayodeji.com/) 
-
+   * [Tania Rascia](https://www.taniarascia.com/blog/)    
+   * [Siddharth Kshetrapal](https://sid.st/blog/) 
+   * [Stefania Stevens](https://stef.ninja/)    
+   * [Bolaji Ayodeji](https://bolajiayodeji.com/) 
+   * [Samantha Ming](https://www.samanthaming.com/blog) 
+   * [Jessica chan](https://coder-coder.com/blog/)
+   * [FLORIN POP](https://www.florin-pop.com/blog/) 
+   * [Scott Young] (https://www.scotthyoung.com/blog/)
   
-
-  
-  
-  
-  
-  
-  
-  
-
-  * Samantha Ming https://www.samanthaming.com/blog 
-  
-  * Jessica chan https://coder-coder.com/blog/
-  
-  * FLORIN POP https://www.florin-pop.com/blog/ 
-  
-  * Scott Young https://www.scotthyoung.com/blog/ 
-  
-  ## Podcasts
+  # Podcasts
   Here are few podcasts that I loved listening to.
   * [TeaWithTanay](https://teawithtanay.com/) by Tanay Pratap
   * [Cero](https://www.youtube.com/watch?v=urhMZSeG33U&list=PLSAVyiM48sqsbznpqLl2l4xR0e7gWJ2T-) by Varun Mayya
