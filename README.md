@@ -1,7 +1,7 @@
 # Blogs
 
-I have been reading a lots of blogs. I learnt and understood a lot just by reading them and I feel like these should be read by everyone.  So everytime I come across something interesting and helpful, I am gonna add it here. 
-### Interview tips and resume
+Hi! I have been reading a lots of blogs. I learnt and understood a lot just by reading them and I feel like these should be read by everyone.  So everytime I come across something interesting and helpful, I am gonna add it here. 
+### :man_technologist: Interview tips and resume
 
   * [How to write great resume for software engineers ](https://www.freecodecamp.org/news/how-to-write-a-great-resume-for-software-engineers-75d514dd8322/)
   
