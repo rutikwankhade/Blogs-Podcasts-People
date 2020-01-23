@@ -1,7 +1,7 @@
 # Blogs
 
 Hi! I have been reading a lots of blogs. I learnt and understood a lot just by reading them and I feel like these should be read by everyone.  So everytime I come across something interesting and helpful, I am gonna add it here. 
-### :simple_smile: Interview tips and resume
+### Interview tips and resume
 
   * [How to write great resume for software engineers ](https://www.freecodecamp.org/news/how-to-write-a-great-resume-for-software-engineers-75d514dd8322/)
   
@@ -16,7 +16,7 @@ Hi! I have been reading a lots of blogs. I learnt and understood a lot just by r
   https://medium.com/p/cbc07913f7f6
   
   
-  
+  ### :man_technologist:	Learning how to code
   
   * How I learned to code 
   https://www.freecodecamp.org/news/i-learned-to-code-and-so-can-you/
