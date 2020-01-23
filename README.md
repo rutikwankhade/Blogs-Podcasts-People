@@ -29,7 +29,7 @@
   * [A Simple Progressive Web App Tutorial](https://link.medium.com/DQ1PWzAlX1)
   
   
-  ### :floppy_disk: People whose blogs are very helpful while learning
+  ### :family_man_woman_boy_boy: People whose blogs are very helpful while learning
   
    * [Tania Rascia](https://www.taniarascia.com/blog/)    
    * [Siddharth Kshetrapal](https://sid.st/blog/) 
