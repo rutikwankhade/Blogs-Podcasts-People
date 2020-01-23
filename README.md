@@ -29,7 +29,7 @@
   * [A Simple Progressive Web App Tutorial](https://link.medium.com/DQ1PWzAlX1)
   
   
-  ### :family_man_woman_boy_boy: People whose blogs are very helpful while learning
+  ### :raising_hand_man: People whose blogs are very helpful while learning
   
    * [Tania Rascia](https://www.taniarascia.com/blog/)    
    * [Siddharth Kshetrapal](https://sid.st/blog/) 
@@ -56,4 +56,4 @@ Being a part of this developers community, I found there are lots of awesome peo
 
 
 
-If you feel something to be shared, contribute here. 
+:computer: If you feel something to be shared, contribute here. 
