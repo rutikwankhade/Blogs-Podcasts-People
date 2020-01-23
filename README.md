@@ -56,4 +56,4 @@ Being a part of this developers community, I found there are lots of awesome peo
 
 
 
-:computer: If you feel something to be shared, contribute here. 
+:pushpin: If you feel something to be shared, contribute here. 
