@@ -4,54 +4,29 @@ Hi! I have been reading a lots of blogs. I learnt and understood a lot just by r
 ### :bookmark_tabs: Interview tips and resume
 
   - [How to write great resume for software engineers ](https://www.freecodecamp.org/news/how-to-write-a-great-resume-for-software-engineers-75d514dd8322/)
-  
   - [How to land an interview ](https://www.freecodecamp.org/news/how-to-get-an-interview-with-top-tech-companies-c27f18e9d157/amp/?__twitter_impression=true)
-  
-  * [The complete guide to personal branding](https://www.beseen.com/blog/talent/the-complete-guide-to-personal-branding-for-tech-pros/)
-  * [Interview tips and tricks](https://www.freecodecamp.org/news/interviewing-prep-tips-and-tricks/)
-  
-  * What I want (and don’t want) to see on your software engineering resume
-  https://medium.com/p/cbc07913f7f6
+  - [The complete guide to personal branding](https://www.beseen.com/blog/talent/the-complete-guide-to-personal-branding-for-tech-pros/)
+  - [Interview tips and tricks](https://www.freecodecamp.org/news/interviewing-prep-tips-and-tricks/)
+  - [What I want (and don’t want) to see on your software engineering resume](https://medium.com/p/cbc07913f7f6)
   
   
   ### :man_technologist:	Learning how to code
   
-  * How I learned to code 
-  https://www.freecodecamp.org/news/i-learned-to-code-and-so-can-you/
+  * [How I learned to code ](https://www.freecodecamp.org/news/i-learned-to-code-and-so-can-you/)
+  * [How to learn without burning out](https://www.freecodecamp.org/news/how-to-constantly-learn-without-burning-out/)
+  * [Learning to Code is Easy: Here’s How to Teach Yourself](https://www.scotthyoung.com/blog/2019/07/08/learn-to-code/)
+  * [Imposter Syndrome In Software Developers: Am I A Fake Developer?](https://www.geeksforgeeks.org/imposter-syndrome-in-software-developers-am-i-a-fake-developer/)
   
   
+  ### :file_folder: Tutorials and resources
+  * [guide to web development](https://coder-coder.com/learn-web-development/)
+  * [30+ Best Youtube Channels to Code Like a Pro](https://qubit-labs.com/best-youtube-channels-code-like-pro/)
+  * [A Git Workflow to Get You Started Pushing Code](https://www.freecodecamp.org/news/git-101-git-workflow-to-get-you-started-pushing-code/amp/#click=https://t.co/BXtAmsTQ7f)
+  * [Free Tools for Tech Startup](https://link.medium.com/N57mVu4OM1)
+  * [How to Learn React — A roadmap from beginner to advanced](https://link.medium.com/TSKBEFexv1)
+  * [Making sense of Git and GitHub](https://betterstack.dev/blog/making-sense-of-git-and-github/)
+  * [A Simple Progressive Web App Tutorial](https://link.medium.com/DQ1PWzAlX1)
   
-  * How to learn without burning out
-  https://www.freecodecamp.org/news/how-to-constantly-learn-without-burning-out/
-  
-  * guide to web development
-  https://coder-coder.com/learn-web-development/
-  
-  * 30+ Best Youtube Channels to Code Like a Pro
-  https://qubit-labs.com/best-youtube-channels-code-like-pro/
-  
-  * A Git Workflow to Get You Started Pushing Code
-  https://www.freecodecamp.org/news/git-101-git-workflow-to-get-you-started-pushing-code/amp/#click=https://t.co/BXtAmsTQ7f
-  
-  * Free Tools for Tech Startup
-  https://link.medium.com/N57mVu4OM1
-  
-  * How to Learn React — A roadmap from beginner to advanced
-  https://link.medium.com/TSKBEFexv1
-  
-  * Making sense of Git and GitHub
-  https://betterstack.dev/blog/making-sense-of-git-and-github/
-  
-  * A Simple Progressive Web App Tutorial
-  https://link.medium.com/DQ1PWzAlX1
-  
-  
-  
-  * Learning to Code is Easy: Here’s How to Teach Yourself
-  https://www.scotthyoung.com/blog/2019/07/08/learn-to-code/
-  
-  * Imposter Syndrome In Software Developers: Am I A Fake Developer?
-  https://www.geeksforgeeks.org/imposter-syndrome-in-software-developers-am-i-a-fake-developer/
   
   ## People whose blogs are very helpful while learning
   
