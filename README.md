@@ -30,11 +30,8 @@ Hi! I have been reading a lots of blogs. I learnt and understood a lot just by r
   
   ## People whose blogs are very helpful while learning
   
-  
-                                                                       
-| -----------------------------------------------------|:-----------------------------------------------:|
-| * [Tania Rascia](https://www.taniarascia.com/blog/)  | * [Siddharth Kshetrapal](https://sid.st/blog/)  |
-| * [Stefania Stevens](https://stef.ninja/)            | * [Bolaji Ayodeji](https://bolajiayodeji.com/)  |
+   * [Tania Rascia](https://www.taniarascia.com/blog/)    * [Siddharth Kshetrapal](https://sid.st/blog/) 
+   * [Stefania Stevens](https://stef.ninja/)    * [Bolaji Ayodeji](https://bolajiayodeji.com/) 
 
   
 
