@@ -48,6 +48,8 @@ Hi! I have been reading a lots of blogs. I learnt and understood a lot just by r
   * [Ladybug](https://ladybug.dev/) by Kelly Vaughn, Ali Spittel & Emma Wedekind
   * [Developer Tea](https://spec.fm/podcasts/developer-tea)
   
+# People
+
 Being a part of this developers community, I found there are lots of awesome people around. Their existance and contribution is a gift to this community. Here is a list of such awesome people you should follow.
 
 * [Pavithra Kodmad](https://twitter.com/PKodmad)
