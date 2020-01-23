@@ -1,7 +1,7 @@
 # Blogs
 
-I have been reading a lots of blogs. I learnt and understood a lot just by reading them and I feel like these should be read by everyone.  So everytime I come across something interesting and helpful, I am gonna add it here. If you read any article and felt it should be shared, contribute here. 
-### Here is a list of blogs that I came across while learning. 
+I have been reading a lots of blogs. I learnt and understood a lot just by reading them and I feel like these should be read by everyone.  So everytime I come across something interesting and helpful, I am gonna add it here. 
+### Interview tips and resume
 
   * How to write great resume for software engineers 
   https://www.freecodecamp.org/news/how-to-write-a-great-resume-for-software-engineers-75d514dd8322/
@@ -12,11 +12,18 @@ I have been reading a lots of blogs. I learnt and understood a lot just by readi
   * The complete guide to personal branding
   https://www.beseen.com/blog/talent/the-complete-guide-to-personal-branding-for-tech-pros/
   
+  * (Interview tips and tricks)[https://www.freecodecamp.org/news/interviewing-prep-tips-and-tricks/]
+  
+  * What I want (and don’t want) to see on your software engineering resume
+  https://medium.com/p/cbc07913f7f6
+  
+  
+  
+  
   * How I learned to code 
   https://www.freecodecamp.org/news/i-learned-to-code-and-so-can-you/
   
-  * Interview tips and tricks
-  https://www.freecodecamp.org/news/interviewing-prep-tips-and-tricks/
+  
   
   * How to learn without burning out
   https://www.freecodecamp.org/news/how-to-constantly-learn-without-burning-out/
@@ -42,8 +49,7 @@ I have been reading a lots of blogs. I learnt and understood a lot just by readi
   * A Simple Progressive Web App Tutorial
   https://link.medium.com/DQ1PWzAlX1
   
-  * What I want (and don’t want) to see on your software engineering resume
-  https://medium.com/p/cbc07913f7f6
+  
   
   * Learning to Code is Easy: Here’s How to Teach Yourself
   https://www.scotthyoung.com/blog/2019/07/08/learn-to-code/
@@ -80,3 +86,7 @@ I have been reading a lots of blogs. I learnt and understood a lot just by readi
 Being a part of this developers community, I found there are lots of awesome people around. Their existance and contribution is a gift to this community. Here is a list of such awesome people you should follow.
 
 * [Pavithra Kodmad](https://twitter.com/PKodmad)
+
+
+
+If you feel something to be shared, contribute here. 
