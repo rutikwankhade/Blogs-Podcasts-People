@@ -29,7 +29,7 @@ Hi! I have been reading a lots of blogs. I learnt and understood a lot just by r
   * [A Simple Progressive Web App Tutorial](https://link.medium.com/DQ1PWzAlX1)
   
   
-  ## People whose blogs are very helpful while learning
+  ### :floppy_disk: People whose blogs are very helpful while learning
   
    * [Tania Rascia](https://www.taniarascia.com/blog/)    
    * [Siddharth Kshetrapal](https://sid.st/blog/) 
