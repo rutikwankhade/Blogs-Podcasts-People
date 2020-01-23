@@ -16,6 +16,7 @@ Hi! I have been reading a lots of blogs. I learnt and understood a lot just by r
   * [How to learn without burning out](https://www.freecodecamp.org/news/how-to-constantly-learn-without-burning-out/)
   * [Learning to Code is Easy: Here’s How to Teach Yourself](https://www.scotthyoung.com/blog/2019/07/08/learn-to-code/)
   * [Imposter Syndrome In Software Developers: Am I A Fake Developer?](https://www.geeksforgeeks.org/imposter-syndrome-in-software-developers-am-i-a-fake-developer/)
+  * [7 important lessons about programming](https://medium.com/free-code-camp/7-important-lessons-about-programming-that-ive-learned-at-17-516ae619686)
   
   
   ### :file_folder: Tutorials and resources
@@ -37,7 +38,7 @@ Hi! I have been reading a lots of blogs. I learnt and understood a lot just by r
    * [Samantha Ming](https://www.samanthaming.com/blog) 
    * [Jessica chan](https://coder-coder.com/blog/)
    * [FLORIN POP](https://www.florin-pop.com/blog/) 
-   * [Scott Young] (https://www.scotthyoung.com/blog/)
+   * [Scott Young](https://www.scotthyoung.com/blog/)
   
   # Podcasts
   Here are few podcasts that I loved listening to.
