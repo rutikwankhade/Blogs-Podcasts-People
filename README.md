@@ -55,8 +55,8 @@ Being a part of this developers community, I found there are lots of awesome peo
 
 * [Pavithra Kodmad](https://twitter.com/PKodmad)
 
-|Id | Name | Category|
-|--|------ |---|
+|Name | work  |links |
+|--|------ |-----|-----|------|
 |1 |[Aaron Gable](https://github.com/aarongable) | Google Chrome Developer (BR) |
 |2 |[Addy Osmani](https://github.com/addyosmani) | Web & Chrome |
 |3 |[Andrew NG](https://www.linkedin.com/in/andrewyng/) | AI & ML |
