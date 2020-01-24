@@ -53,15 +53,15 @@
 
 Being a part of this developers community, I found there are lots of awesome people around. Their existance and contribution is a gift to this community. Here is a list of such awesome people you should follow.
 
-* [Pavithra Kodmad](https://twitter.com/PKodmad)
+* 
 
 |Name | work  |   |    |     |
 |--|------ |-----|-----|-----|
-|1 |[Aaron Gable](https://github.com/aarongable) | Google Chrome Developer (BR) |
-|2 |[Addy Osmani](https://github.com/addyosmani) | Web & Chrome |
+|1 |[Tanay Pratap](https://twitter.com/tanaypratap) | 7 |[Addy Osmani](https://github.com/addyosmani) |
+|2 | [Brad Traversy](https://www.youtube.com/user/TechGuyWeb)| 8  |[Pavithra Kodmad](https://twitter.com/PKodmad) |
 |3 |[Andrew NG](https://www.linkedin.com/in/andrewyng/) | AI & ML |
 |4 |[Benjamin Pasero](https://twitter.com/benjaminpasero) | Software engineer at Microsoft, VSCode  |
-|5 |[Brad Traversy](https://www.youtube.com/user/TechGuyWeb) | Web Developer, Programmer, YouTuber |
+|5 | | Web Developer, Programmer, YouTuber |
 |6 |[Daniel Shiffman](https://shiffman.net/) | Programmer / Former project lead with the [Processing Foundation](https://processing.org/) |
 
 
