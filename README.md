@@ -32,13 +32,12 @@
   ### :raising_hand_man: People whose blogs are very helpful while learning
   
    * [Tania Rascia](https://www.taniarascia.com/blog/) - writes about modern JavaScript, Node.js, and development.    
-   * [Siddharth Kshetrapal](https://sid.st/blog/) - 
-   * [Stefania Stevens](https://stef.ninja/)    
-   * [Bolaji Ayodeji](https://bolajiayodeji.com/) 
-   * [Samantha Ming](https://www.samanthaming.com/blog) 
-   * [Jessica chan](https://coder-coder.com/blog/)
-   * [FLORIN POP](https://www.florin-pop.com/blog/) 
-   * [Scott Young](https://www.scotthyoung.com/blog/)
+   * [Siddharth Kshetrapal](https://sid.st/blog/) - Javascript and personal growth.
+   * [Stefania Stevens](https://stef.ninja/) - about frontend and developer tips and tricks   
+   * [Bolaji Ayodeji](https://bolajiayodeji.com/) - tech tools and step by step tutorials on important concepts
+   * [Jessica chan](https://coder-coder.com/blog/) - shares her experience and tutorials on web development 
+   * [FLORIN POP](https://www.florin-pop.com/blog/) - projects, code snippets and more
+   * [Scott Young](https://www.scotthyoung.com/blog/) - writes about learning, habits, productivity and lot more interesting stuff
   
   # Podcasts
   Here are few podcasts that I loved listening to.
