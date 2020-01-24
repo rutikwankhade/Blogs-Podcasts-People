@@ -8,6 +8,7 @@
   - [The complete guide to personal branding](https://www.beseen.com/blog/talent/the-complete-guide-to-personal-branding-for-tech-pros/)
   - [Interview tips and tricks](https://www.freecodecamp.org/news/interviewing-prep-tips-and-tricks/)
   - [What I want (and don’t want) to see on your software engineering resume](https://medium.com/p/cbc07913f7f6)
+  - [10 tips for approaching coding interview questions](https://blog.interviewcamp.io/2019-08-05/tips-for-approaching-coding-interview-questions/)
   
   
   ### :man_technologist:	Learning how to code
@@ -17,7 +18,7 @@
   * [Learning to Code is Easy: Here’s How to Teach Yourself](https://www.scotthyoung.com/blog/2019/07/08/learn-to-code/)
   * [Imposter Syndrome In Software Developers: Am I A Fake Developer?](https://www.geeksforgeeks.org/imposter-syndrome-in-software-developers-am-i-a-fake-developer/)
   * [7 important lessons about programming](https://medium.com/free-code-camp/7-important-lessons-about-programming-that-ive-learned-at-17-516ae619686)
-  
+  * [7 steps to improve your data structure and algorithm skills](https://www.hackerearth.com/blog/developers/7-steps-to-improve-your-data-structure-and-algorithm-skills?utm_medium=search&utm_source=header&utm_campaign=he-search)
   
   ### :file_folder: Tutorials and resources
   * [guide to web development](https://coder-coder.com/learn-web-development/)
@@ -46,6 +47,7 @@
   * [Syntax.fm](https://syntax.fm/) by Wes Bos and Scott Tolinski
   * [Ladybug](https://ladybug.dev/) by Kelly Vaughn, Ali Spittel & Emma Wedekind
   * [Developer Tea](https://spec.fm/podcasts/developer-tea)
+  * [Soft Skills Engineering](https://softskills.audio/episodes/)
   
 # People
 
