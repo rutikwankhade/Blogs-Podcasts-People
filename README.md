@@ -61,7 +61,7 @@ Being a part of this developers community, I found there are lots of awesome peo
 |2| [Brad Traversy](https://www.youtube.com/user/TechGuyWeb)|                 |
 |3|[Andrew NG](https://www.linkedin.com/in/andrewyng/) |                      |
 |4| [Pavithra Kodmad](https://twitter.com/PKodmad)  |                        |
-|5||[Addy Osmani](https://github.com/addyosmani)                            |
+|5|[Addy Osmani](https://github.com/addyosmani)      |                    |
 
 
 
