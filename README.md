@@ -19,6 +19,7 @@
   * [Imposter Syndrome In Software Developers: Am I A Fake Developer?](https://www.geeksforgeeks.org/imposter-syndrome-in-software-developers-am-i-a-fake-developer/)
   * [7 important lessons about programming](https://medium.com/free-code-camp/7-important-lessons-about-programming-that-ive-learned-at-17-516ae619686)
   * [7 steps to improve your data structure and algorithm skills](https://www.hackerearth.com/blog/developers/7-steps-to-improve-your-data-structure-and-algorithm-skills?utm_medium=search&utm_source=header&utm_campaign=he-search)
+  * [Hello World: Want to be a developer? Learn how to learn](https://stackoverflow.blog/2020/01/11/hello-world-want-to-be-a-developer-learn-how-to-learn/?utm_source=linkedin&utm_medium=social&utm_campaign=so-blog)
   
   ### :file_folder: Tutorials and resources
   * [guide to web development](https://coder-coder.com/learn-web-development/)
