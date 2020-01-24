@@ -55,6 +55,15 @@ Being a part of this developers community, I found there are lots of awesome peo
 
 * [Pavithra Kodmad](https://twitter.com/PKodmad)
 
+|Id | Name | Category|
+|--|------ |---|
+|1 |[Aaron Gable](https://github.com/aarongable) | Google Chrome Developer (BR) |
+|2 |[Addy Osmani](https://github.com/addyosmani) | Web & Chrome |
+|3 |[Andrew NG](https://www.linkedin.com/in/andrewyng/) | AI & ML |
+|4 |[Benjamin Pasero](https://twitter.com/benjaminpasero) | Software engineer at Microsoft, VSCode  |
+|5 |[Brad Traversy](https://www.youtube.com/user/TechGuyWeb) | Web Developer, Programmer, YouTuber |
+|6 |[Daniel Shiffman](https://shiffman.net/) | Programmer / Former project lead with the [Processing Foundation](https://processing.org/) |
+
 
 
 :pushpin: If you feel something to be shared, contribute here. 
