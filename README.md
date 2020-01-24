@@ -31,8 +31,8 @@
   
   ### :raising_hand_man: People whose blogs are very helpful while learning
   
-   * [Tania Rascia](https://www.taniarascia.com/blog/)    
-   * [Siddharth Kshetrapal](https://sid.st/blog/) 
+   * [Tania Rascia](https://www.taniarascia.com/blog/) - writes about modern JavaScript, Node.js, and development.    
+   * [Siddharth Kshetrapal](https://sid.st/blog/) - 
    * [Stefania Stevens](https://stef.ninja/)    
    * [Bolaji Ayodeji](https://bolajiayodeji.com/) 
    * [Samantha Ming](https://www.samanthaming.com/blog) 
