@@ -55,14 +55,13 @@ Being a part of this developers community, I found there are lots of awesome peo
 
 * 
 
-|Name | work  |   |    |     |
-|--|------ |-----|-----|-----|
-|1 |[Tanay Pratap](https://twitter.com/tanaypratap) | 7 |[Addy Osmani](https://github.com/addyosmani) |
-|2 | [Brad Traversy](https://www.youtube.com/user/TechGuyWeb)| 8  |[Pavithra Kodmad](https://twitter.com/PKodmad) |
-|3 |[Andrew NG](https://www.linkedin.com/in/andrewyng/) | AI & ML |
-|4 |[Benjamin Pasero](https://twitter.com/benjaminpasero) | Software engineer at Microsoft, VSCode  |
-|5 | | Web Developer, Programmer, YouTuber |
-|6 |[Daniel Shiffman](https://shiffman.net/) | Programmer / Former project lead with the [Processing Foundation](https://processing.org/) |
+|No. |Name | work  |  
+|-|------ |-----|-----|-----|
+|1|[Tanay Pratap](https://twitter.com/tanaypratap) |                        |
+|2| [Brad Traversy](https://www.youtube.com/user/TechGuyWeb)|                 |
+|3|[Andrew NG](https://www.linkedin.com/in/andrewyng/) |                      |
+|4| [Pavithra Kodmad](https://twitter.com/PKodmad)  |                        |
+|5||[Addy Osmani](https://github.com/addyosmani)                            |
 
 
 
