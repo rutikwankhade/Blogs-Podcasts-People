@@ -56,7 +56,7 @@ Being a part of this developers community, I found there are lots of awesome peo
 * 
 
 |No. |Name | work  |  
-|-|------ |-----|-----|-----|
+|-|------ |-----|
 |1|[Tanay Pratap](https://twitter.com/tanaypratap) |                        |
 |2| [Brad Traversy](https://www.youtube.com/user/TechGuyWeb)|                 |
 |3|[Andrew NG](https://www.linkedin.com/in/andrewyng/) |                      |
