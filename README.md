@@ -63,6 +63,11 @@ Being a part of this developers community, I found there are lots of awesome peo
 |3|[Andrew NG](https://www.linkedin.com/in/andrewyng/) |                      |
 |4| [Pavithra Kodmad](https://twitter.com/PKodmad)  |                        |
 |5|[Addy Osmani](https://github.com/addyosmani)      |                    |
+|6|[Dan Abramov](https://twitter.com/dan_abramov)      |                    |
+|7|[Addy Osmani](https://github.com/addyosmani)      |                    |
+|8|[Addy Osmani](https://github.com/addyosmani)      |                    |
+|9|[Addy Osmani](https://github.com/addyosmani)      |                    |
+|5|[Addy Osmani](https://github.com/addyosmani)      |                    |
 
 
 
