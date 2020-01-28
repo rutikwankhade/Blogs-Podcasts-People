@@ -64,10 +64,26 @@ Being a part of this developers community, I found there are lots of awesome peo
 |4| [Pavithra Kodmad](https://twitter.com/PKodmad)  |                        |
 |5|[Addy Osmani](https://github.com/addyosmani)      |                    |
 |6|[Dan Abramov](https://twitter.com/dan_abramov)      |                    |
-|7|[Addy Osmani](https://github.com/addyosmani)      |                    |
-|8|[Addy Osmani](https://github.com/addyosmani)      |                    |
-|9|[Addy Osmani](https://github.com/addyosmani)      |                    |
-|5|[Addy Osmani](https://github.com/addyosmani)      |                    |
+|7|[Ahmad Awais](https://ahmadawais.com/)      |                    |
+|8|[Dinesh Pandiyan](https://dineshpandiyan.com/)      |                    |
+|9|[FLORIN POP](https://www.florin-pop.com/blog)      |                    |
+|10|[Kyle Mathews](https://twitter.com/kylemathews)      |                    |
+|11|[Kamran Ahmed](https://github.com/kamranahmedse)      |                    |
+|12|[Siraj Raval ](https://www.youtube.com/sirajraval)      |                    |
+|13|[Akshay Saini](https://www.youtube.com/akshaymarch7)      |                    |
+|14|[Sandeep Panda](https://twitter.com/Sandeepg33k)      |                    |
+|15|[Kent C. Dodds](https://kentcdodds.com/)      |                    |
+|16|[Brad Traversy](https://twitter.com/traversymedia)      |                    |
+|17|[Wes Bos](https://www.youtube.com/user/wesbos)      |                    |
+|18|[Scott Tolinski](https://www.youtube.com/c/leveluptuts)      |                    |
+|19|[Chris Achard](https://twitter.com/chrisachard)      |                    |
+|20|[Joe Previte](https://twitter.com/jsjoeio)      |                    |
+|21|[Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)      |                    |
+|22|[Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)      |                    |
+|23|[CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)      |                    |
+
+
+
 
 
 
