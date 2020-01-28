@@ -87,4 +87,5 @@ Being a part of this developers community, I found there are lots of awesome peo
 
  * Well this is not just a random list of resources.
  * The purpose of this repository is to collect the quality content that provides value.
+
 :pushpin: If you feel something to be shared, contribute here. 
