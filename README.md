@@ -13,7 +13,6 @@
   
   ### :man_technologist:	Learning how to code
   
-  * [How I learned to code ](https://www.freecodecamp.org/news/i-learned-to-code-and-so-can-you/)
   * [How to learn without burning out](https://www.freecodecamp.org/news/how-to-constantly-learn-without-burning-out/)
   * [Learning to Code is Easy: Here’s How to Teach Yourself](https://www.scotthyoung.com/blog/2019/07/08/learn-to-code/)
   * [Imposter Syndrome In Software Developers: Am I A Fake Developer?](https://www.geeksforgeeks.org/imposter-syndrome-in-software-developers-am-i-a-fake-developer/)
