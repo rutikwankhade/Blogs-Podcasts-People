@@ -51,6 +51,9 @@
   * [Developer Tea](https://spec.fm/podcasts/developer-tea)
   * [Soft Skills Engineering](https://softskills.audio/episodes/)
   
+  #### Also subscribe to these Newsletters too.
+  * [reactnews.dev](https://reactnews.dev/) by Tanay Pratap
+ 
 # People
 
 Being a part of this developers community, I found there are lots of awesome people around. Their existance and contribution is a gift to this community. Here is a list of such awesome people you should follow.
