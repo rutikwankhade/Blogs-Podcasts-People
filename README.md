@@ -56,9 +56,8 @@
  
 # People
 
-Being a part of this developers community, I found there are lots of awesome people around. Their existance and contribution is a gift to this community. Here is a list of such awesome people you should follow.
+* Being a part of this developers community, I found there are lots of awesome people around. Their existance and contribution is a gift to this community. Here is a list of such awesome people you should follow.
 
-* 
 
 |No. |Name | work  |  
 |-|------ |-----|
