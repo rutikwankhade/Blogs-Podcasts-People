@@ -6,6 +6,7 @@
   - [How to write great resume for software engineers ](https://www.freecodecamp.org/news/how-to-write-a-great-resume-for-software-engineers-75d514dd8322/)
   - [How to land an interview ](https://www.freecodecamp.org/news/how-to-get-an-interview-with-top-tech-companies-c27f18e9d157/amp/?__twitter_impression=true)
   - [The complete guide to personal branding](https://www.beseen.com/blog/talent/the-complete-guide-to-personal-branding-for-tech-pros/)
+  - [Make your profile and resume “outstanding” these summers — A developers action plan!](https://medium.com/learn-with-the-lean-programmer/make-your-profile-and-resume-outstanding-these-summers-a-developers-action-plan-70425a3ad26c)
   - [Interview tips and tricks](https://www.freecodecamp.org/news/interviewing-prep-tips-and-tricks/)
   - [What I want (and don’t want) to see on your software engineering resume](https://medium.com/p/cbc07913f7f6)
   - [10 tips for approaching coding interview questions](https://blog.interviewcamp.io/2019-08-05/tips-for-approaching-coding-interview-questions/)
