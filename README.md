@@ -39,6 +39,7 @@
    * [Bolaji Ayodeji](https://bolajiayodeji.com/) - tech tools and step by step tutorials on important concepts
    * [Jessica chan](https://coder-coder.com/blog/) - shares her experience and tutorials on web development 
    * [FLORIN POP](https://www.florin-pop.com/blog/) - projects, code snippets and more
+   * [Flavio Copes](https://flaviocopes.com/) - Writes about html,css Js, react,Node.js and and everything else on web.
    * [Scott Young](https://www.scotthyoung.com/blog/) - writes about learning, habits, productivity and lot more interesting stuff
   
   # Podcasts
