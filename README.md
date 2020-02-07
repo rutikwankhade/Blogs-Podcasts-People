@@ -83,9 +83,9 @@
 |19|[Chris Achard](https://twitter.com/chrisachard)      |                    |
 |20|[Joe Previte](https://twitter.com/jsjoeio)      |                    |
 |21|[Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)      |                    |
-|22|[Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)      |                    |
-|23|[CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)      |                    |
-|23|[Daniel Shiffman](https://www.youtube.com/user/shiffman)      |                    |
+|22|[Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)      | for competitive programming                   |
+|23|[CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)      | great explanation on data structures                   |
+|23|[Daniel Shiffman](https://www.youtube.com/user/shiffman)      | I love this man, Anything you watch on his channel, you will enjoy.                   |
 
 
 
