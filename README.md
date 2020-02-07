@@ -66,13 +66,13 @@
 |2| [Brad Traversy](https://www.youtube.com/user/TechGuyWeb)| Tutorials on youtube                |
 |3|[Andrew NG](https://www.linkedin.com/in/andrewyng/) |                      |
 |4| [Pavithra Kodmad](https://twitter.com/PKodmad)  |                        |
-|5|[Addy Osmani](https://github.com/addyosmani)      |                    |
+|5|[Addy Osmani](https://github.com/addyosmani)      |  Engineering Manager at Google working on Chrome & Web Platform                  |
 |6|[Dan Abramov](https://twitter.com/dan_abramov)      |                    |
-|7|[Ahmad Awais](https://ahmadawais.com/)      |                    |
-|8|[Dinesh Pandiyan](https://dineshpandiyan.com/)      |                    |
-|9|[FLORIN POP](https://www.florin-pop.com/blog)      |                    |
+|7|[Ahmad Awais](https://ahmadawais.com/)      |  Google Developers Expert for web                    |
+|8|[Dinesh Pandiyan](https://dineshpandiyan.com/)      | blogs                   |
+|9|[FLORIN POP](https://www.florin-pop.com/blog)      | youtube tutorials and 100 projects on his blogs                   |
 |10|[Kyle Mathews](https://twitter.com/kylemathews)      |                    |
-|11|[Kamran Ahmed](https://github.com/kamranahmedse)      |                    |
+|11|[Kamran Ahmed](https://github.com/kamranahmedse)      |  check his roadmap.sh                  |
 |12|[Siraj Raval ](https://www.youtube.com/sirajraval)      |                    |
 |13|[Akshay Saini](https://www.youtube.com/akshaymarch7)      |                    |
 |14|[Sandeep Panda](https://twitter.com/Sandeepg33k)      |                    |
