@@ -50,6 +50,7 @@
   * [Ladybug](https://ladybug.dev/) by Kelly Vaughn, Ali Spittel & Emma Wedekind
   * [Developer Tea](https://spec.fm/podcasts/developer-tea)
   * [Soft Skills Engineering](https://softskills.audio/episodes/)
+  * [CodeNewbie Podcast ](https://www.codenewbie.org/podcast)
   
   #### Also subscribe to these Newsletters too.
   * [reactnews.dev](https://reactnews.dev/) by Tanay Pratap
