@@ -62,8 +62,8 @@
 
 |No. |Name | work  |  
 |-|------ |-----|
-|1|[Tanay Pratap](https://twitter.com/tanaypratap) |                        |
-|2| [Brad Traversy](https://www.youtube.com/user/TechGuyWeb)|                 |
+|1|[Tanay Pratap](https://twitter.com/tanaypratap) | Engineer @Microsoft, Great content on his instagram and youtube channel                      |
+|2| [Brad Traversy](https://www.youtube.com/user/TechGuyWeb)| Tutorials on youtube                |
 |3|[Andrew NG](https://www.linkedin.com/in/andrewyng/) |                      |
 |4| [Pavithra Kodmad](https://twitter.com/PKodmad)  |                        |
 |5|[Addy Osmani](https://github.com/addyosmani)      |                    |
