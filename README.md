@@ -62,30 +62,28 @@
 
 |No. |Name | work  |  
 |-|------ |-----|
-|1|[Tanay Pratap](https://twitter.com/tanaypratap) | Engineer @Microsoft, Great content on his instagram and youtube channel                      |
-|2| [Brad Traversy](https://www.youtube.com/user/TechGuyWeb)| Tutorials on youtube                |
-|3|[Andrew NG](https://www.linkedin.com/in/andrewyng/) |                      |
-|4| [Pavithra Kodmad](https://twitter.com/PKodmad)  |                        |
+|1|[Tanay Pratap](https://twitter.com/tanaypratap) | Engineer @Microsoft, Great content on his instagram and youtube channel                     |
+|2|[Brad Traversy](https://twitter.com/traversymedia)      |  watch his crash courses on youtube                  |
+|3|[FLORIN POP](https://www.florin-pop.com/blog)      | youtube tutorials and 100 projects on his blogs                   |
+|4| [Pavithra Kodmad](https://twitter.com/PKodmad)  |   Check her youtube channel                     |
 |5|[Addy Osmani](https://github.com/addyosmani)      |  Engineering Manager at Google working on Chrome & Web Platform                  |
-|6|[Dan Abramov](https://twitter.com/dan_abramov)      |                    |
+|6|[Daniel Shiffman](https://www.youtube.com/user/shiffman)      | I love this man, Anything you watch on his channel, you will enjoy.   
 |7|[Ahmad Awais](https://ahmadawais.com/)      |  Google Developers Expert for web                    |
-|8|[Dinesh Pandiyan](https://dineshpandiyan.com/)      | blogs                   |
-|9|[FLORIN POP](https://www.florin-pop.com/blog)      | youtube tutorials and 100 projects on his blogs                   |
-|10|[Kyle Mathews](https://twitter.com/kylemathews)      |                    |
+|8|[Quincy Larson](https://dineshpandiyan.com/)      | blogs                   |
+|9|[JavaScript Teacher](https://twitter.com/js_tut)      | his tweets will help you learn and grow a lot.                 |
+|10|[Kyle Mathews](https://twitter.com/kylemathews)      |  Founder of gatsbyjs                  |
 |11|[Kamran Ahmed](https://github.com/kamranahmedse)      |  check his roadmap.sh                  |
-|12|[Siraj Raval ](https://www.youtube.com/sirajraval)      |                    |
-|13|[Akshay Saini](https://www.youtube.com/akshaymarch7)      |                    |
-|14|[Sandeep Panda](https://twitter.com/Sandeepg33k)      |                    |
-|15|[Kent C. Dodds](https://kentcdodds.com/)      |                    |
-|16|[Brad Traversy](https://twitter.com/traversymedia)      |                    |
-|17|[Wes Bos](https://www.youtube.com/user/wesbos)      |                    |
-|18|[Scott Tolinski](https://www.youtube.com/c/leveluptuts)      |                    |
-|19|[Chris Achard](https://twitter.com/chrisachard)      |                    |
-|20|[Joe Previte](https://twitter.com/jsjoeio)      |                    |
+|12|[Dinesh Pandiyan](https://dineshpandiyan.com/)      | blogs                   |
+|13|[Akshay Saini](https://www.youtube.com/akshaymarch7)      | interviews and placements related content                   |
+|14|[Sandeep Panda](https://twitter.com/Sandeepg33k)      | cofounder of hashnode, read blogs on hashnode                   |
+|15|[Kent C. Dodds](https://kentcdodds.com/)      | content all about web development                   |
+|17|[Wes Bos](https://www.youtube.com/user/wesbos)      | tutorials on his youtube and courses                   |
+|18|[Scott Tolinski](https://www.youtube.com/c/leveluptuts)      | great content on his channel about web development                   |
+|19|[Chris Achard](https://twitter.com/chrisachard)      | blogs on react                    |
+|20|[Joe Previte](https://twitter.com/jsjoeio)      | very insightful tweets                   |
 |21|[Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)      |                    |
 |22|[Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)      | for competitive programming                   |
 |23|[CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)      | great explanation on data structures                   |
-|23|[Daniel Shiffman](https://www.youtube.com/user/shiffman)      | I love this man, Anything you watch on his channel, you will enjoy.                   |
 
 
 
