@@ -69,7 +69,7 @@
 |5|[Addy Osmani](https://github.com/addyosmani)      |  Engineering Manager at Google working on Chrome & Web Platform                  |
 |6|[Daniel Shiffman](https://www.youtube.com/user/shiffman)      | I love this man, Anything you watch on his channel, you will enjoy.   
 |7|[Ahmad Awais](https://ahmadawais.com/)      |  Google Developers Expert for web                    |
-|8|[Quincy Larson](https://dineshpandiyan.com/)      | blogs                   |
+|8|[Quincy Larson](https://dineshpandiyan.com/)      | Founder of Freecodecamp . read his blogs                   |
 |9|[JavaScript Teacher](https://twitter.com/js_tut)      | his tweets will help you learn and grow a lot.                 |
 |10|[Kyle Mathews](https://twitter.com/kylemathews)      |  Founder of gatsbyjs                  |
 |11|[Kamran Ahmed](https://github.com/kamranahmedse)      |  check his roadmap.sh                  |
