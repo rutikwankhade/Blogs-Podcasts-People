@@ -82,7 +82,7 @@
 |18|[Scott Tolinski](https://www.youtube.com/c/leveluptuts)      | great content on his channel about web development                   |
 |19|[Chris Achard](https://twitter.com/chrisachard)      | blogs on react                    |
 |20|[Joe Previte](https://twitter.com/jsjoeio)      | very insightful tweets                   |
-|21|[Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)      |                    |
+|21|[Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)      |   Competitive coding and computer science concepts                 |
 |22|[Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)      | for competitive programming                   |
 |23|[CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)      | great explanation on data structures                   |
 
