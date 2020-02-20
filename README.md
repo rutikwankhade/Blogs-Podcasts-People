@@ -30,7 +30,7 @@
   * [How to Learn React — A roadmap from beginner to advanced](https://link.medium.com/TSKBEFexv1)
   * [Making sense of Git and GitHub](https://betterstack.dev/blog/making-sense-of-git-and-github/)
   * [A Simple Progressive Web App Tutorial](https://link.medium.com/DQ1PWzAlX1)
-  
+  * [How To Code in JavaScript](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript)
   
   ### :raising_hand_man: People whose blogs are very helpful while learning
   
