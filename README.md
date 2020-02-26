@@ -43,6 +43,8 @@
    * [Flavio Copes](https://flaviocopes.com/) - Writes about html,css Js, react,Node.js and and everything else on web.
    * [Scott Young](https://www.scotthyoung.com/blog/) - writes about learning, habits, productivity and lot more interesting stuff
    * [Areknawo](https://areknawo.com/) - very interesting blogs on javaScript and new technologies
+   * [Dave Ceddia](https://daveceddia.com/archives/) - Most of the posts are about React or Angular
+
   # Podcasts
   Here are few podcasts that I loved listening to.
   * [TeaWithTanay](https://teawithtanay.com/) by Tanay Pratap
