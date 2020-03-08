@@ -21,7 +21,7 @@
   * [7 steps to improve your data structure and algorithm skills](https://www.hackerearth.com/blog/developers/7-steps-to-improve-your-data-structure-and-algorithm-skills?utm_medium=search&utm_source=header&utm_campaign=he-search)
   * [Hello World: Want to be a developer? Learn how to learn](https://stackoverflow.blog/2020/01/11/hello-world-want-to-be-a-developer-learn-how-to-learn/?utm_source=linkedin&utm_medium=social&utm_campaign=so-blog)
   * [Web Development in 2020 - a look forward.](https://areknawo.com/web-development-in-2020-a-look-forward/)
-  
+  * [How To Supercharge Your Productivity As A Developer](https://www.giftegwuenu.com/how-to-supercharge-your-productivity-as-a-developer/)
   ### :file_folder: Tutorials and resources
   * [guide to web development](https://coder-coder.com/learn-web-development/)
   * [30+ Best Youtube Channels to Code Like a Pro](https://qubit-labs.com/best-youtube-channels-code-like-pro/)
