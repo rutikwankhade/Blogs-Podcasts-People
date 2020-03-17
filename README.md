@@ -31,6 +31,7 @@
   * [Making sense of Git and GitHub](https://betterstack.dev/blog/making-sense-of-git-and-github/)
   * [A Simple Progressive Web App Tutorial](https://link.medium.com/DQ1PWzAlX1)
   * [How To Code in JavaScript](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript)
+  * [Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc?utm_source=additional_box&utm_medium=internal&utm_campaign=regular&booster_org=)
   
   ### :raising_hand_man: People whose blogs are very helpful while learning
   
