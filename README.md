@@ -90,6 +90,9 @@
 |22|[Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)      | for competitive programming                   |
 |23|[CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)      | great explanation on data structures                   |
 |24|[Dev E](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)      | Youtube videos on web dev                  |
+|25|[Catalin Pit ](https://twitter.com/catalinmpit)      | Follow him on twitter for daily motivation                 |
+|26|[Dev E](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)      | Youtube videos on web dev                  |
+|27|[Dev E](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)      | Youtube videos on web dev                  |
 
 
 
