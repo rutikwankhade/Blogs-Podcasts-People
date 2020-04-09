@@ -91,8 +91,9 @@
 |23|[CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)      | great explanation on data structures                   |
 |24|[Dev E](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)      | Youtube videos on web dev                  |
 |25|[Catalin Pit ](https://twitter.com/catalinmpit)      | Follow him on twitter for daily motivation                 |
-|26|[Dev E](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)      | Youtube videos on web dev                  |
-|27|[Dev E](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)      | Youtube videos on web dev                  |
+|26|[Zell Liew](https://zellwk.com/blog/)      | check his blog and jsroadmap series                 |
+|27|[Mosh Hamedani](https://www.youtube.com/user/programmingwithmosh)      | loved his teaching style, check his youtube channel                 |
+|28|[areknaow](https://areknawo.com/)      | blogs on web technologies                |
 
 
 
